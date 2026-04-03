@@ -1,0 +1,3 @@
+﻿src/pages/SettingsActivity.tsx(1,1): error TS6133: 'Header' is declared but its value is never read.
+src/pages/StartChat.tsx(7,35): error TS6133: 'History' is declared but its value is never read.
+src/pages/StartChat.tsx(7,65): error TS6133: 'MailOpen' is declared but its value is never read.
